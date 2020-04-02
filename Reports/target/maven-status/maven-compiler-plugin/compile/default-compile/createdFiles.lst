@@ -1,0 +1,6 @@
+com\vfde\reports\CassandraConnect.class
+com\vfde\reports\ApiResponse.class
+com\vfde\reports\DecryptPassword.class
+com\vfde\reports\AuthToken.class
+com\vfde\reports\GetVfdeEntityCount.class
+com\vfde\reports\ReportGeneration.class
