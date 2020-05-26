@@ -1,4 +1,4 @@
-# reports
+# Reports
 This project will connect to cassandra , posgres db , stand alone server and execute commands .Generate reports based on it .
 READ ME :  REPORT AUTOMATION MODULE - RAM
 
